@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_service\\poc_service.csproj",
+      "projectUniqueName": "D:\\Demo\\POC2021\\poc_productservice\\poc_service\\poc_service.csproj",
       "projectName": "poc_service",
-      "projectPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_service\\poc_service.csproj",
+      "projectPath": "D:\\Demo\\POC2021\\poc_productservice\\poc_service\\poc_service.csproj",
       "packagesPath": "C:\\Users\\dungnguyen1\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_service\\obj\\",
+      "outputPath": "D:\\Demo\\POC2021\\poc_productservice\\poc_service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6276,11 +6276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_productservice\\poc_productservice.csproj",
+      "projectUniqueName": "D:\\Demo\\POC2021\\poc_productservice\\poc_productservice\\poc_productservice.csproj",
       "projectName": "poc_productservice",
-      "projectPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_productservice\\poc_productservice.csproj",
+      "projectPath": "D:\\Demo\\POC2021\\poc_productservice\\poc_productservice\\poc_productservice.csproj",
       "packagesPath": "C:\\Users\\dungnguyen1\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_productservice\\obj\\",
+      "outputPath": "D:\\Demo\\POC2021\\poc_productservice\\poc_productservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6300,8 +6300,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_productdatabase\\poc_productdatabase.csproj": {
-              "projectPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_productdatabase\\poc_productdatabase.csproj"
+            "D:\\Demo\\POC2021\\poc_productservice\\poc_productdatabase\\poc_productdatabase.csproj": {
+              "projectPath": "D:\\Demo\\POC2021\\poc_productservice\\poc_productdatabase\\poc_productdatabase.csproj"
             }
           }
         }

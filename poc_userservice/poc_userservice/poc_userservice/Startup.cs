@@ -11,6 +11,12 @@ using poc_service.services.Interfaces;
 using poc_common.Configurations;
 using poc_manager.Interfaces;
 using poc_manager.Infrastructure;
+using poc_service.services;
+using IdentityServer4.Validation;
+using poc_service.Validator;
+using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace poc_userservice
 {
@@ -28,20 +34,21 @@ namespace poc_userservice
         {
             services.Configure<Configurations.Encrypt>(Configuration.GetSection(
                                         Configurations.Encrypt.Section));
+            services.AddEntityFrameworkSqlServer();
             services.AddDbContext<UserDBContext>();
             services.AddAutoMapper(typeof(MappingProfile));
 
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IRolesRepository, RolesRepository>();
-            services.AddScoped<IUserService, poc_service.services.UserService>();
-            services.AddScoped<IRolesService, poc_service.services.RolesService>();
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IRolesService, RolesService>();
             services.AddSingleton<IRabbitConnection, RabbitConnection>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title="User Service", Version = "1" });
             });
             services.AddControllers();
-            
+
             //services.AddAuthentication("Bearer")
             //    .AddIdentityServerAuthentication("Bearer", options =>
             //    {
@@ -55,11 +62,15 @@ namespace poc_userservice
                 .AddInMemoryApiResources(Config.GetApis())
                 .AddInMemoryClients(Config.GetClients())
                 .AddInMemoryApiScopes(Config.GetApiScopes())
+                .AddProfileService<ProfileService>()
                 .AddDeveloperSigningCredential();
+
+            services.AddTransient<IResourceOwnerPasswordValidator, ResourceOwnerPasswordValidator>();
+            services.AddTransient<IdentityServer4.Services.IProfileService, ProfileService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, UserDBContext db)
         {
             if (env.IsDevelopment())
             {
@@ -74,6 +85,9 @@ namespace poc_userservice
             app.UseIdentityServer();
 
             app.UseAuthorization();
+
+            // db.Database.EnsureCreated();
+            db.Database.Migrate();
 
             app.UseEndpoints(endpoints =>
             {

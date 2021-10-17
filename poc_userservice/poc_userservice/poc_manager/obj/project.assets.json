@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_manager\\poc_manager.csproj",
+      "projectUniqueName": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_manager\\poc_manager.csproj",
       "projectName": "poc_manager",
-      "projectPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_manager\\poc_manager.csproj",
+      "projectPath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_manager\\poc_manager.csproj",
       "packagesPath": "C:\\Users\\dungnguyen1\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_manager\\obj\\",
+      "outputPath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_manager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

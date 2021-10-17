@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj": {}
+    "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj": {
+    "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj",
+        "projectUniqueName": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj",
         "projectName": "poc_common",
-        "projectPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj",
+        "projectPath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj",
         "packagesPath": "C:\\Users\\dungnguyen1\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_common\\obj\\",
+        "outputPath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,7 +49,7 @@
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.8, )"
             }
           },
           "imports": [

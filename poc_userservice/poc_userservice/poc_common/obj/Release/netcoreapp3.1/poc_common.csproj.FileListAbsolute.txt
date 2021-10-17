@@ -1,0 +1,9 @@
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\bin\Release\netcoreapp3.1\poc_common.deps.json
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\bin\Release\netcoreapp3.1\poc_common.dll
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\bin\Release\netcoreapp3.1\poc_common.pdb
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\obj\Release\netcoreapp3.1\poc_common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\obj\Release\netcoreapp3.1\poc_common.AssemblyInfoInputs.cache
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\obj\Release\netcoreapp3.1\poc_common.AssemblyInfo.cs
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\obj\Release\netcoreapp3.1\poc_common.csproj.CoreCompileInputs.cache
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\obj\Release\netcoreapp3.1\poc_common.dll
+D:\Demo\POC2021\poc_userservice\poc_userservice\poc_common\obj\Release\netcoreapp3.1\poc_common.pdb

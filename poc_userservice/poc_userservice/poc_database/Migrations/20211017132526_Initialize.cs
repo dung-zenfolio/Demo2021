@@ -1,9 +1,10 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
+using poc_database.Seed;
 
 namespace poc_database.Migrations
 {
-    public partial class UserService : Migration
+    public partial class Initialize : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -35,7 +36,7 @@ namespace poc_database.Migrations
                     UpdatedDate = table.Column<DateTime>(nullable: false),
                     UserName = table.Column<string>(maxLength: 50, nullable: false),
                     Password = table.Column<string>(nullable: true),
-                    RoleId = table.Column<Guid>(nullable: false)
+                    RoleId = table.Column<Guid>(nullable: true)
                 },
                 constraints: table =>
                 {
@@ -45,13 +46,15 @@ namespace poc_database.Migrations
                         column: x => x.RoleId,
                         principalTable: "Roles",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Users_RoleId",
                 table: "Users",
                 column: "RoleId");
+
+            UserDataInitialize.Seed(migrationBuilder);
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

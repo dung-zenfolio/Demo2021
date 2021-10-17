@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/kc7wap65tXYsy2ndI7tmS7xZBDxDzz+EXxwSKS6n0eFr9NBB1HxvYgy0xsiVLHMoNEfq49sasVIy7mKMlqJgQ==",
+  "dgSpecHash": "sgNRynJg6BF5toJUDvoFlVzIskZxhcRSOnoHD4QbTTclsM3lSkKynajKqJVQiTmbKAZRvg4N5mA583zDmT6ogQ==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_service\\poc_service.csproj",
+  "projectFilePath": "D:\\Demo\\POC2021\\poc_productservice\\poc_service\\poc_service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

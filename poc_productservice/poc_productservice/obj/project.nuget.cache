@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWlgURN+lWawFbP7CPi2cVNYhPEC50i96tqOlqnzt9J888TI5upbxt124Yu1rpIBdRzL6v/V8VM+Zyqmr60XmQ==",
+  "dgSpecHash": "l6jlOL8clq8HcGQ3P62pMirz8STcIJcVcddrqyRimJVvgzLH8BROMSjmFkz+y1gTQ1hjbNA4AsK0hPNOwnSU5A==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\POC 2020\\Demo2020\\poc_productservice\\poc_productservice\\poc_productservice.csproj",
+  "projectFilePath": "D:\\Demo\\POC2021\\poc_productservice\\poc_productservice\\poc_productservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
