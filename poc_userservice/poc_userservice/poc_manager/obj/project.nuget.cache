@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbWbunyw0K8FNbcR7x5r3fCqzt1XLMXORTacwNI0EI//nYt9F8GRR1qNyXPjLAvbo/ZDrfvyUmD/Y5unrbl4qA==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\POC 2020\\Demo2020\\poc_userservice\\poc_userservice\\poc_manager\\poc_manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

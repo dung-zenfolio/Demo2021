@@ -1,0 +1,9 @@
+D:\Demo\POC 2020\poc_productservice\poc_common\bin\Debug\netcoreapp3.1\poc_common.deps.json
+D:\Demo\POC 2020\poc_productservice\poc_common\bin\Debug\netcoreapp3.1\poc_common.dll
+D:\Demo\POC 2020\poc_productservice\poc_common\bin\Debug\netcoreapp3.1\poc_common.pdb
+D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.csprojAssemblyReference.cache
+D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.AssemblyInfoInputs.cache
+D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.AssemblyInfo.cs
+D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.csproj.CoreCompileInputs.cache
+D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.dll
+D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.pdb
