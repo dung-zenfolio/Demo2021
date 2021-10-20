@@ -19,10 +19,12 @@ namespace poc_database.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //Only use to create migration
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
-                .AddJsonFile("appsettings.json")
+                .AddJsonFile($"appsettings.development.json", optional: true)
                 .Build();
+
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("UserDatabase"));
         }
 

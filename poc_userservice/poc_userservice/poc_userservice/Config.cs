@@ -46,7 +46,7 @@ namespace poc_userservice
                     ClientId = "f2c517cd-1cb3-483c-a06e-4f95854fa2f9",
 
                     // no interactive user, use the clientid/secret for authentication
-                    AllowedGrantTypes = GrantTypes.ClientCredentials,
+                    AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
 
                     // secret for authentication
                     ClientSecrets =

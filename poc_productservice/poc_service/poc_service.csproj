@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\poc_resource\poc_resource.csproj" />
+  </ItemGroup>
+
 </Project>

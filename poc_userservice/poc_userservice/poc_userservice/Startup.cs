@@ -42,20 +42,12 @@ namespace poc_userservice
             services.AddScoped<IRolesRepository, RolesRepository>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IRolesService, RolesService>();
-            services.AddSingleton<IRabbitConnection, RabbitConnection>();
+            services.AddTransient<IRabbitConnection, RabbitConnection>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title="User Service", Version = "1" });
             });
             services.AddControllers();
-
-            //services.AddAuthentication("Bearer")
-            //    .AddIdentityServerAuthentication("Bearer", options =>
-            //    {
-            //        options.ApiName = "userApi";
-            //        options.RequireHttpsMetadata = false;
-            //        options.Authority = "http://localhost:5000";
-            //    });
 
             services.AddIdentityServer()
                 .AddInMemoryIdentityResources(Config.GetIdentityResources())
@@ -70,7 +62,7 @@ namespace poc_userservice
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, UserDBContext db)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, UserDBContext db, IRabbitConnection rabbit)
         {
             if (env.IsDevelopment())
             {
@@ -93,6 +85,8 @@ namespace poc_userservice
             {
                 endpoints.MapControllers();
             });
+
+            rabbit.OpenConnection();
 
             app.UseSwagger();
             app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v1/swagger.json", "PlaceInfo Services"));

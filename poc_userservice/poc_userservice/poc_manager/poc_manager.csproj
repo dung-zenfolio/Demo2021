@@ -8,4 +8,8 @@
     <PackageReference Include="RabbitMQ.Client" Version="6.2.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\poc_service\poc_service.csproj" />
+  </ItemGroup>
+
 </Project>

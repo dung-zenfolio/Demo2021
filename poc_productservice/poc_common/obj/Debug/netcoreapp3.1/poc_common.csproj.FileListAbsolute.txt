@@ -7,3 +7,13 @@ D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_commo
 D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.csproj.CoreCompileInputs.cache
 D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.dll
 D:\Demo\POC 2020\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.pdb
+D:\Demo\POC2021\poc_productservice\poc_common\bin\Debug\netcoreapp3.1\poc_common.deps.json
+D:\Demo\POC2021\poc_productservice\poc_common\bin\Debug\netcoreapp3.1\poc_common.dll
+D:\Demo\POC2021\poc_productservice\poc_common\bin\Debug\netcoreapp3.1\poc_common.pdb
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.csproj.AssemblyReference.cache
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.AssemblyInfoInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.AssemblyInfo.cs
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.csproj.CoreCompileInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.dll
+D:\Demo\POC2021\poc_productservice\poc_common\obj\Debug\netcoreapp3.1\poc_common.pdb

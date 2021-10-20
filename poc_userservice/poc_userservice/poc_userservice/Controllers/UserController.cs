@@ -13,9 +13,9 @@ using poc_userservice.Models.Response;
 
 namespace poc_userservice.Controllers
 {
-    [Route("api/User")]
+    [Route("api/user")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class UserController : ControllerBase
     {
         private IMapper _mapper;

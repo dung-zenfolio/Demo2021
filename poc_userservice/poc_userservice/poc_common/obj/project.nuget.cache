@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rj9WQW3GZ3/uPU9kP0Lyakdy0ukaJENCGtKuhRjFfAgXFc7e8r8tPi98V5Ax4HiJp6QOonRzOGxjJPLPzcDMw==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_common\\poc_common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.6\\microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.6\\microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

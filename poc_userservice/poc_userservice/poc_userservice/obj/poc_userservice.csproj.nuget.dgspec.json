@@ -190,7 +190,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_service\\poc_service.csproj": {
+                "projectPath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_service\\poc_service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -21,6 +21,7 @@ namespace poc_resource.Repositories
         public async Task<Users> GetUsersByName(string userName)
         {
             return await userContext.Users
+                .Include(x => x.Role)
                 .FirstOrDefaultAsync(x => x.UserName == userName);
         }
 

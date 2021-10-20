@@ -5,10 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.8" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\poc_common\poc_common.csproj" />
     <ProjectReference Include="..\poc_productdatabase\poc_productdatabase.csproj" />
   </ItemGroup>
 

@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
+using poc_productdatabase.Seed;
 
 namespace poc_productdatabase.Migrations
 {
@@ -146,6 +147,8 @@ namespace poc_productdatabase.Migrations
                 name: "IX_ProductImages_ProductId",
                 table: "ProductImages",
                 column: "ProductId");
+
+            ProductSeedDataInit.Seed(migrationBuilder);
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
