@@ -572,3 +572,14 @@
 [2021-10-20T03:54:18.126+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 3020793900 ns, Reaching safepoint: 104800 ns, At safepoint: 23700 ns, Total: 128500 ns
 [2021-10-20T03:54:22.156+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 4029969700 ns, Reaching safepoint: 132900 ns, At safepoint: 19800 ns, Total: 152700 ns
 [2021-10-20T03:54:44.128+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 21971620600 ns, Reaching safepoint: 104600 ns, At safepoint: 4500 ns, Total: 109100 ns
+[2021-10-20T03:54:46.095+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 1966707000 ns, Reaching safepoint: 242600 ns, At safepoint: 10700 ns, Total: 253300 ns
+[2021-10-20T03:54:47.101+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 1006165000 ns, Reaching safepoint: 156200 ns, At safepoint: 8600 ns, Total: 164800 ns
+[2021-10-20T03:55:26.411+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 39309564000 ns, Reaching safepoint: 137100 ns, At safepoint: 32300 ns, Total: 169400 ns
+[2021-10-20T03:55:34.456+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 8044227200 ns, Reaching safepoint: 505600 ns, At safepoint: 611700 ns, Total: 1117300 ns
+[2021-10-20T03:55:37.482+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 3025399000 ns, Reaching safepoint: 201200 ns, At safepoint: 17200 ns, Total: 218400 ns
+[2021-10-20T03:55:38.497+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 1014678300 ns, Reaching safepoint: 172600 ns, At safepoint: 36600 ns, Total: 209200 ns
+[2021-10-20T03:55:45.555+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 7058641300 ns, Reaching safepoint: 259900 ns, At safepoint: 18200 ns, Total: 278100 ns
+[2021-10-20T03:56:56.053+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 70497591700 ns, Reaching safepoint: 136800 ns, At safepoint: 10400 ns, Total: 147200 ns
+[2021-10-20T03:56:57.066+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 1012799800 ns, Reaching safepoint: 144000 ns, At safepoint: 9700 ns, Total: 153700 ns
+[2021-10-20T03:56:58.073+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 1006916000 ns, Reaching safepoint: 135300 ns, At safepoint: 7900 ns, Total: 143200 ns
+[2021-10-20T03:57:15.205+0000][5128][safepoint    ] Safepoint "Cleanup", Time since last: 17131837800 ns, Reaching safepoint: 124500 ns, At safepoint: 16000 ns, Total: 140500 ns

@@ -1,0 +1,17 @@
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_resource.deps.json
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_resource.dll
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\ref\poc_resource.dll
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_resource.pdb
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_common.dll
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_productdatabase.dll
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_common.pdb
+D:\Demo\POC2021\poc_productservice\poc_resource\bin\Debug\net5.0\poc_productdatabase.pdb
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.csproj.AssemblyReference.cache
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.AssemblyInfoInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.AssemblyInfo.cs
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.csproj.CoreCompileInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.csproj.CopyComplete
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.dll
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\ref\poc_resource.dll
+D:\Demo\POC2021\poc_productservice\poc_resource\obj\Debug\net5.0\poc_resource.pdb

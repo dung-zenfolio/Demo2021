@@ -1,16 +1,3 @@
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.deps.json
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.runtimeconfig.json
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.runtimeconfig.dev.json
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.dll
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.pdb
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.csproj.AssemblyReference.cache
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.GeneratedMSBuildEditorConfig.editorconfig
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.AssemblyInfoInputs.cache
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.AssemblyInfo.cs
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.csproj.CoreCompileInputs.cache
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.dll
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.pdb
-D:\Demo\POC 2020\Demo2020\poc_productservice\poc_productdatabase\obj\Debug\netcoreapp3.1\poc_productdatabase.genruntimeconfig.cache
 D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.deps.json
 D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.runtimeconfig.json
 D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\netcoreapp3.1\poc_productdatabase.runtimeconfig.dev.json

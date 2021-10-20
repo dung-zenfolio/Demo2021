@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MP0IS2NrLTFOJDhDlCEfNANxS5CVj55DISgHGmPAFnjZfSYZz/XaXgRP2F76HTlr3Wn3A9zwZ2mFxRjNmqj2jg==",
+  "dgSpecHash": "sJ1fU0Q/kuDqxdtc45SvGjz77SU9svghWjONQgrGl201DZ7XnAQZj+Rua9wzkcZCRgeajIMxctlgEg88rJV7hg==",
   "success": true,
   "projectFilePath": "D:\\Demo\\POC2021\\poc_userservice\\poc_userservice\\poc_userservice\\poc_userservice.csproj",
   "expectedPackageFiles": [
@@ -121,8 +121,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\dungnguyen1\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
-    "C:\\Users\\dungnguyen1\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\dungnguyen1\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\dungnguyen1\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
@@ -142,7 +141,7 @@
       "message": "poc_userservice depends on Microsoft.Extensions.DependencyModel (>= 3.1.8) but Microsoft.Extensions.DependencyModel 3.1.8 was not found. An approximate best match of Microsoft.Extensions.DependencyModel 5.0.0 was resolved.",
       "libraryId": "Microsoft.Extensions.DependencyModel",
       "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
+        "net5.0"
       ]
     }
   ]

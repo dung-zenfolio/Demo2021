@@ -1,0 +1,12 @@
+D:\Demo\POC2021\poc_productservice\poc_search\bin\Debug\net5.0\poc_search.deps.json
+D:\Demo\POC2021\poc_productservice\poc_search\bin\Debug\net5.0\poc_search.dll
+D:\Demo\POC2021\poc_productservice\poc_search\bin\Debug\net5.0\ref\poc_search.dll
+D:\Demo\POC2021\poc_productservice\poc_search\bin\Debug\net5.0\poc_search.pdb
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.csproj.AssemblyReference.cache
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.AssemblyInfoInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.AssemblyInfo.cs
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.csproj.CoreCompileInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.dll
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\ref\poc_search.dll
+D:\Demo\POC2021\poc_productservice\poc_search\obj\Debug\net5.0\poc_search.pdb

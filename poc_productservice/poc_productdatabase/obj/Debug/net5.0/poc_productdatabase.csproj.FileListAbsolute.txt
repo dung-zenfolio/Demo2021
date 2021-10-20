@@ -1,0 +1,14 @@
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\net5.0\poc_productdatabase.deps.json
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\net5.0\poc_productdatabase.runtimeconfig.json
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\net5.0\poc_productdatabase.runtimeconfig.dev.json
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\net5.0\poc_productdatabase.dll
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\net5.0\ref\poc_productdatabase.dll
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\bin\Debug\net5.0\poc_productdatabase.pdb
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.AssemblyInfoInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.AssemblyInfo.cs
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.csproj.CoreCompileInputs.cache
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.dll
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\ref\poc_productdatabase.dll
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.pdb
+D:\Demo\POC2021\poc_productservice\poc_productdatabase\obj\Debug\net5.0\poc_productdatabase.genruntimeconfig.cache
